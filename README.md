@@ -1,0 +1,19 @@
+
+<h2>Redux-Thunk-Sample-Project...</h2>
+
+In the project content, the react router dom library is used as well as the responsive software's site display software.
+
+<h3>Kullanılan Teknolojiler</h3>
+
+Bu projede HTML, CSS, JS  teknolojileri kullanılmıştır.
+
+<h4>Screenshot of the Project</h4>	
+
+![](Redux-Thunk.gif)
+
+
+
+
+
+# Redux-Thunk-Sample-Project
+# Redux-Thunk-Sample-Project
